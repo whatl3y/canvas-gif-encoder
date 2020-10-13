@@ -17,7 +17,7 @@
   "author": "Borna Cafuk",
   "license": "Zlib",
   "dependencies": {
-    "canvas": "2.5.0"
+    "canvas": "2.6.1"
   },
   "homepage": "https://github.com/bcafuk/canvas-gif-encoder",
   "repository": {
